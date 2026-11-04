@@ -70,7 +70,7 @@ A team academic project exploring an integrated Security Operations Centre (SOC)
 
 ---
 
-### 🔐 2. DynaShare – Dynamic File Sharing
+### 🔐 2. DynaShare – Dynamic File Sharing | [Live Demo](https://dynshare.onrender.com)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -91,6 +91,8 @@ A Flask-based secure file-sharing web application designed to provide encrypted 
 - Database management using SQLAlchemy and SQLite.
 
 **Technologies:** Python, Flask, SQLAlchemy, SQLite, HTML, CSS, Bootstrap, Werkzeug and Cryptography.
+
+<!-- Add your actual DynaShare screenshot here when available. -->
 
 <!-- Add your actual DynaShare screenshot here when available. -->
 
