@@ -98,27 +98,6 @@ A Flask-based secure file-sharing web application designed to provide encrypted 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shadab-42&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadab-42&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadab-42&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shadab-42&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
